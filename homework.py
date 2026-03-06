@@ -1,3 +1,2 @@
-data = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5]
-data=set(data)
-print(data)
+student={'name':'Alex','age':25,'course':["Python","Git"]}
+print(student[key])

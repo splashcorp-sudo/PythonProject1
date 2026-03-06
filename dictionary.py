@@ -11,4 +11,9 @@ my_dict[4.21]= 'val11'
 print(my_dict['one'])
 print(my_dict)
 
+#вывод только ключа или значения
+print(my_dict.keys())
+print(my_dict.values())
+print(my_dict.items())
+
 my_dic3={} #это пустой словарь
